@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "adm-zip": "0.4.7",
-    "express": "4.12"
+    "adm-zip": "0.5.2",
+    "express": "5.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
